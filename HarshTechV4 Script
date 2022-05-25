@@ -31,13 +31,13 @@ local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 
 local Window = Library.CreateLib("HarshTech - 4.0", "Serpent")
 
-local Tab = Window:NewTab("Home||")
+local Tab = Window:NewTab("Home•Info•Credits")
 
 local Section = Tab:NewSection("Welcome User To HarshTech V4")
 
 local Section = Tab:NewSection("Discord: YellowGreg#7993")
 
-local Section = Tab:New section("DevTeam: YellowGreg•WspBoy12•MMSVon")
+local Section = Tab:NewSection("DevTeam: YellowGreg•WspBoy12•MMSVon")
 
 local Section = Tab:NewSection("Some GUI Need To Function In The Real Game")
 
